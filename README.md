@@ -13,7 +13,7 @@ cd mojakRkikorbo && cargo build --release
 ```bash  
 ./mojakRkikorbo --fetch
 ```
-### 3.)To get different use :
+### 3.)To get different jokes, use :
 ```bash
 ./mojakRkikorbo -c Dark --fetch
 ```
@@ -28,3 +28,7 @@ cd mojakRkikorbo && cargo build --release
 
 
 # NOT GONNA PUBLISH CRATE YET 🦀 
+
+
+
+![](https://media.giphy.com/media/gktOiCyL1zdde/giphy.gif?cid=ecf05e47krbx6gt8m92j9q0v4yozj292zb9r5w0tpl4kwfxi&rid=giphy.gif&ct=g)
